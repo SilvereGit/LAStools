@@ -3,6 +3,8 @@
   <name>LAStools</name>
   <version>1.1.1</version>
   <description>SLAM</description>
+  <maintainer email="email@gmail.com">unmaintained</maintainer>
+  <license> n </license>
   <build_depend>message_generation</build_depend>
   <build_depend>sensor_msgs</build_depend>
   <build_depend>roscpp</build_depend>
